@@ -6,4 +6,4 @@ Line Chart: Sales vs Profit (Monthly)
 
 KPI Cards: Total Sales, Profit, Orders, Quantity
 
-Filters: Month, Segment, Region, Customer Type
+Filters: Month, Segment, Region, In/Out for Customer Type
